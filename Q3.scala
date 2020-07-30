@@ -1,4 +1,4 @@
-class BankAccount (ID:String,accno:Int,bl:Double) {
+class Account (ID:String,accno:Int,bl:Double) {
   def ID : Any = ID
   def accnum = accno
   def balance = bl
